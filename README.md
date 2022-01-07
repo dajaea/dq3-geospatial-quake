@@ -1,6 +1,3 @@
-# dq3-geospatial-quake
-Recommendations for earthquake preparedness allocation in West Tennessee
-
 ## Data Question 3: Web Scraping Earthquake Data
 
 ### Part 1:
